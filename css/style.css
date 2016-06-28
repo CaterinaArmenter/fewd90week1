@@ -1,4 +1,18 @@
+h1 {
+	font-weight: bold;
+	background-color: white;
+
+}
+
 body {
-	background-image: url('../images/background.png')
+	background-image: url('../images/background.png');
 	
+	background-size: 900px 550px;
+
+}
+
+p {
+	color: black;
+	background-color: white;
+	font-weight: bold;
 }
